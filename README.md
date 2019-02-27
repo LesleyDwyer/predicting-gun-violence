@@ -1,4 +1,4 @@
-# Data analysis and regression model to predict US gun violence from county health data
+# Data analysis and regression to predict US gun violence from county health data
 
 This is the coursework for my Principles of Data Science module at City, University of London in 2018-19. It was an individual project where I chose datasets, performed data analysis, data processing, feature engineering and model building. Then, I wrote a short paper explaining my findings. 
 
